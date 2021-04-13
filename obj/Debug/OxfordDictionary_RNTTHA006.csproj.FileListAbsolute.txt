@@ -1,0 +1,15 @@
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\OxfordDictionary_RNTTHA006.exe.config
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\OxfordDictionary_RNTTHA006.exe
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\OxfordDictionary_RNTTHA006.pdb
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.csprojAssemblyReference.cache
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.Properties.Resources.resources
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.csproj.GenerateResource.cache
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.exe
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.pdb
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.Form1.resources
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Thabiso Rantsho\source\repos\OxfordDictionary_RNTTHA006\obj\Debug\OxfordDictionary_RNTTHA006.csproj.CopyComplete
